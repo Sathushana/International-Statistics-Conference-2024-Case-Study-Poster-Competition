@@ -1,7 +1,7 @@
-📊 Credit Risk Score Prediction for Fraud Detection
-🏆 Presented at:
-International Statistics Conference 2024
-Case Study Poster Competition
+# 📊 Credit Risk Score Prediction for Fraud Detection
+## 🏆 Presented at:
+### International Statistics Conference 2024
+### Case Study Poster Competition
 
 📌 Abstract
 Fraud in credit card and personal loan applications is a growing challenge for financial institutions. Traditional credit risk models often fail to detect fraud effectively due to the evolving tactics of fraudsters. This project proposes a more robust and data-driven solution to predict credit risk scores and identify fraudulent activities with improved accuracy.
